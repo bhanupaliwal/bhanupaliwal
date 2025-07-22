@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhanu Paliwal</h1>
-<h3 align="center">A passionate full stack developer trying to solve problems using code</h3>
+<h3 align="center">A passionate data engineer trying to solve problems using code.</h3>
 
-- 🔭 I’m currently working on **react projects**
+- 🔭 I’m currently working on **Agentic AI Applications.**
 
-- 🌱 I’m currently learning **react,node**
+- 🌱 I’m currently learning **Fabric, Snowflake and agentic AI Systems**
 
-- 💬 Ask me about **java script,node,react**
+- 💬 Ask me about **AI, Data, Systems**
 
 - 📫 How to reach me **bhanupaliwal007@gmail.com**
 
